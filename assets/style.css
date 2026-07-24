@@ -15,127 +15,23 @@
   background: var(--page);
 }
 
-section[data-testid="stSidebar"] {
-  background: #ffffff;
-  border-right: 1px solid var(--line);
-}
-
-.main .block-container {
-  padding-top: 1.2rem;
-  padding-bottom: 2.5rem;
-  max-width: 1220px;
-}
-
-.hero {
-  display: grid;
-  grid-template-columns: 72px minmax(0, 1fr);
-  gap: 18px;
-  align-items: center;
-  padding: 22px 24px;
-  background: linear-gradient(135deg, #ffffff 0%, #eef7fd 100%);
-  border: 1px solid #d7eaf7;
-  border-radius: 8px;
-  box-shadow: 0 10px 24px rgba(31, 41, 55, 0.08);
-  margin-bottom: 22px;
-}
-
-.hero-logo {
-  width: 72px;
-  height: 72px;
-  object-fit: contain;
-}
-
-.hero h1 {
+section[data-testid="stSidebar"] section[data-testid="stSidebar"],
+section[data-testid="stSidebar"] * {
   color: var(--ink);
-  font-size: clamp(1.55rem, 2.5vw, 2.3rem);
-  line-height: 1.1;
-  margin: 0 0 6px 0;
-  letter-spacing: 0;
 }
 
-.hero p {
-  color: var(--muted);
-  margin: 0;
-  font-size: 1rem;
-}
-
-.section-title {
+section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a,
+section[data-testid="stSidebar"] [data-testid="stSidebarNav"] span {
   color: var(--ink);
-  font-size: 1.15rem;
   font-weight: 700;
-  margin: 0.4rem 0 0.8rem 0;
 }
 
-.kpi-card {
-  background: var(--surface);
-  border: 1px solid #e4eaf1;
-  border-left: 4px solid var(--arcgis-blue);
-  border-radius: 8px;
-  padding: 16px 16px 14px;
-  box-shadow: 0 8px 18px rgba(31, 41, 55, 0.07);
-  min-height: 108px;
+section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a[aria-current="page"],
+section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a:hover {
+  background: #e8eef5;
+  color: #0f172a;
 }
 
-.kpi-label {
-  color: var(--muted);
-  font-size: 0.8rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  margin-bottom: 8px;
-}
-
-.kpi-value {
-  color: var(--ink);
-  font-size: 1.55rem;
-  font-weight: 800;
-  line-height: 1.15;
-}
-
-.kpi-subtitle {
-  color: var(--muted);
-  font-size: 0.82rem;
-  margin-top: 4px;
-}
-
-.info-panel {
-  background: #ffffff;
-  border: 1px solid #e4eaf1;
-  border-radius: 8px;
-  padding: 16px;
-  box-shadow: 0 8px 18px rgba(31, 41, 55, 0.06);
-}
-
-.stButton > button,
-.stDownloadButton > button {
-  border-radius: 999px;
-  border: 1px solid var(--arcgis-blue);
+section[data-testid="stSidebar"] [data-baseweb="tag"] span {
   color: #ffffff;
-  background: var(--arcgis-blue);
-  font-weight: 700;
-}
-
-.stTabs [data-baseweb="tab-list"] {
-  gap: 6px;
-}
-
-.stTabs [data-baseweb="tab"] {
-  border-radius: 999px;
-  padding: 8px 14px;
-}
-
-iframe {
-  border-radius: 8px;
-}
-
-@media (max-width: 700px) {
-  .hero {
-    grid-template-columns: 52px minmax(0, 1fr);
-    padding: 16px;
-  }
-
-  .hero-logo {
-    width: 52px;
-    height: 52px;
-  }
 }
