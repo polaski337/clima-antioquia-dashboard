@@ -1,0 +1,61 @@
+fecha,municipio,subregion,estacion,latitud,longitud,altitud_m,poblacion,temperatura_c,precipitacion_mm,humedad_relativa,velocidad_viento_kmh,radiacion_solar_wm2
+2026-01-01,Medellin,Valle de Aburra,AMVA Centro,6.2442,-75.5812,1495,2533424,22.8,5.4,68,8.4,512
+2026-01-01,Bello,Valle de Aburra,Bello Norte,6.3373,-75.5580,1450,536006,22.1,6.1,70,7.1,498
+2026-01-01,Envigado,Valle de Aburra,Envigado Urbano,6.1719,-75.5800,1575,243568,21.7,4.8,69,7.8,520
+2026-01-01,Rionegro,Oriente,Rionegro Aeropuerto,6.1552,-75.3737,2125,142222,17.4,8.5,78,10.6,455
+2026-01-01,Santa Fe de Antioquia,Occidente,Santa Fe IDEAM,6.5569,-75.8281,550,26679,28.9,2.2,62,9.5,590
+2026-01-01,Apartado,Uraba,Apartado Urbano,7.8836,-76.6259,30,131405,27.2,13.6,84,6.2,438
+2026-01-01,Turbo,Uraba,Turbo Puerto,8.0926,-76.7282,2,166904,27.8,15.1,86,7.4,421
+2026-01-01,Caucasia,Bajo Cauca,Caucasia Sinchi,7.9865,-75.1989,50,117115,28.4,10.2,80,6.8,550
+2026-01-01,Yarumal,Norte,Yarumal Alto,6.9632,-75.4174,2265,53595,15.9,7.3,81,12.5,470
+2026-01-01,Jardin,Suroeste,Jardin Cafetera,5.5990,-75.8199,1750,13748,19.3,9.7,82,6.6,462
+2026-02-01,Medellin,Valle de Aburra,AMVA Centro,6.2442,-75.5812,1495,2533424,23.1,7.2,69,8.9,526
+2026-02-01,Bello,Valle de Aburra,Bello Norte,6.3373,-75.5580,1450,536006,22.4,7.9,71,7.5,510
+2026-02-01,Envigado,Valle de Aburra,Envigado Urbano,6.1719,-75.5800,1575,243568,22.0,6.8,70,8.1,530
+2026-02-01,Rionegro,Oriente,Rionegro Aeropuerto,6.1552,-75.3737,2125,142222,17.8,10.4,79,11.0,466
+2026-02-01,Santa Fe de Antioquia,Occidente,Santa Fe IDEAM,6.5569,-75.8281,550,26679,29.4,3.1,63,9.9,602
+2026-02-01,Apartado,Uraba,Apartado Urbano,7.8836,-76.6259,30,131405,27.5,16.9,85,6.5,450
+2026-02-01,Turbo,Uraba,Turbo Puerto,8.0926,-76.7282,2,166904,28.1,18.2,87,7.8,433
+2026-02-01,Caucasia,Bajo Cauca,Caucasia Sinchi,7.9865,-75.1989,50,117115,28.8,12.7,81,7.1,562
+2026-02-01,Yarumal,Norte,Yarumal Alto,6.9632,-75.4174,2265,53595,16.3,8.9,82,13.1,481
+2026-02-01,Jardin,Suroeste,Jardin Cafetera,5.5990,-75.8199,1750,13748,19.7,11.2,83,6.9,474
+2026-03-01,Medellin,Valle de Aburra,AMVA Centro,6.2442,-75.5812,1495,2533424,22.5,12.5,72,7.6,486
+2026-03-01,Bello,Valle de Aburra,Bello Norte,6.3373,-75.5580,1450,536006,21.9,13.1,74,6.8,472
+2026-03-01,Envigado,Valle de Aburra,Envigado Urbano,6.1719,-75.5800,1575,243568,21.5,11.6,73,7.4,491
+2026-03-01,Rionegro,Oriente,Rionegro Aeropuerto,6.1552,-75.3737,2125,142222,17.1,16.9,82,10.1,430
+2026-03-01,Santa Fe de Antioquia,Occidente,Santa Fe IDEAM,6.5569,-75.8281,550,26679,28.6,6.4,67,8.8,550
+2026-03-01,Apartado,Uraba,Apartado Urbano,7.8836,-76.6259,30,131405,26.8,22.7,88,5.8,410
+2026-03-01,Turbo,Uraba,Turbo Puerto,8.0926,-76.7282,2,166904,27.2,24.5,89,6.9,398
+2026-03-01,Caucasia,Bajo Cauca,Caucasia Sinchi,7.9865,-75.1989,50,117115,28.1,19.2,84,6.2,512
+2026-03-01,Yarumal,Norte,Yarumal Alto,6.9632,-75.4174,2265,53595,15.7,13.8,85,11.9,448
+2026-03-01,Jardin,Suroeste,Jardin Cafetera,5.5990,-75.8199,1750,13748,19.1,17.6,86,6.1,438
+2026-04-01,Medellin,Valle de Aburra,AMVA Centro,6.2442,-75.5812,1495,2533424,21.8,18.4,75,7.1,455
+2026-04-01,Bello,Valle de Aburra,Bello Norte,6.3373,-75.5580,1450,536006,21.2,19.5,77,6.4,441
+2026-04-01,Envigado,Valle de Aburra,Envigado Urbano,6.1719,-75.5800,1575,243568,20.9,17.2,76,6.9,462
+2026-04-01,Rionegro,Oriente,Rionegro Aeropuerto,6.1552,-75.3737,2125,142222,16.5,23.8,85,9.5,405
+2026-04-01,Santa Fe de Antioquia,Occidente,Santa Fe IDEAM,6.5569,-75.8281,550,26679,27.9,9.2,70,8.1,520
+2026-04-01,Apartado,Uraba,Apartado Urbano,7.8836,-76.6259,30,131405,26.2,31.4,90,5.2,388
+2026-04-01,Turbo,Uraba,Turbo Puerto,8.0926,-76.7282,2,166904,26.6,34.6,91,6.1,372
+2026-04-01,Caucasia,Bajo Cauca,Caucasia Sinchi,7.9865,-75.1989,50,117115,27.4,26.7,87,5.9,488
+2026-04-01,Yarumal,Norte,Yarumal Alto,6.9632,-75.4174,2265,53595,15.1,18.5,87,11.2,421
+2026-04-01,Jardin,Suroeste,Jardin Cafetera,5.5990,-75.8199,1750,13748,18.5,22.9,88,5.7,415
+2026-05-01,Medellin,Valle de Aburra,AMVA Centro,6.2442,-75.5812,1495,2533424,21.5,20.1,76,7.0,448
+2026-05-01,Bello,Valle de Aburra,Bello Norte,6.3373,-75.5580,1450,536006,20.9,21.7,78,6.2,435
+2026-05-01,Envigado,Valle de Aburra,Envigado Urbano,6.1719,-75.5800,1575,243568,20.5,19.8,77,6.7,454
+2026-05-01,Rionegro,Oriente,Rionegro Aeropuerto,6.1552,-75.3737,2125,142222,16.2,25.4,86,9.2,399
+2026-05-01,Santa Fe de Antioquia,Occidente,Santa Fe IDEAM,6.5569,-75.8281,550,26679,27.5,10.7,71,8.0,512
+2026-05-01,Apartado,Uraba,Apartado Urbano,7.8836,-76.6259,30,131405,25.9,35.8,91,5.0,381
+2026-05-01,Turbo,Uraba,Turbo Puerto,8.0926,-76.7282,2,166904,26.3,38.1,92,5.8,365
+2026-05-01,Caucasia,Bajo Cauca,Caucasia Sinchi,7.9865,-75.1989,50,117115,27.1,29.4,88,5.6,480
+2026-05-01,Yarumal,Norte,Yarumal Alto,6.9632,-75.4174,2265,53595,14.9,20.6,88,10.8,414
+2026-05-01,Jardin,Suroeste,Jardin Cafetera,5.5990,-75.8199,1750,13748,18.2,25.3,89,5.5,407
+2026-06-01,Medellin,Valle de Aburra,AMVA Centro,6.2442,-75.5812,1495,2533424,22.2,10.7,71,8.0,501
+2026-06-01,Bello,Valle de Aburra,Bello Norte,6.3373,-75.5580,1450,536006,21.6,11.9,73,7.0,488
+2026-06-01,Envigado,Valle de Aburra,Envigado Urbano,6.1719,-75.5800,1575,243568,21.2,10.4,72,7.6,507
+2026-06-01,Rionegro,Oriente,Rionegro Aeropuerto,6.1552,-75.3737,2125,142222,16.9,15.1,81,10.3,449
+2026-06-01,Santa Fe de Antioquia,Occidente,Santa Fe IDEAM,6.5569,-75.8281,550,26679,28.2,5.8,66,9.0,578
+2026-06-01,Apartado,Uraba,Apartado Urbano,7.8836,-76.6259,30,131405,26.7,21.5,87,5.9,426
+2026-06-01,Turbo,Uraba,Turbo Puerto,8.0926,-76.7282,2,166904,27.1,23.2,88,7.0,411
+2026-06-01,Caucasia,Bajo Cauca,Caucasia Sinchi,7.9865,-75.1989,50,117115,27.9,17.5,83,6.4,536
+2026-06-01,Yarumal,Norte,Yarumal Alto,6.9632,-75.4174,2265,53595,15.6,12.6,84,12.1,461
+2026-06-01,Jardin,Suroeste,Jardin Cafetera,5.5990,-75.8199,1750,13748,18.9,16.2,85,6.3,451
